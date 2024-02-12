@@ -1,15 +1,15 @@
 name: "Sophus's blog"
 description: "Peihan Lin's Homepage"
 
-avatar: https://pianfan.github.io/images/avatar.webp
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://Sophus-PHLin.github.io/images/avatar.webp
+favicon: https://Sophus-PHLin.github.io/images/favicon.ico
 
 navigation:
-  - name: 首页
+  - name: Main Page
     url: /
-  - name: 关于
+  - name: About
     url: /about
-  - name: 分类
+  - name: Classfication
     url: /tags
 
 paginate: 8
@@ -17,12 +17,12 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 footer-links:
-  zhihu: 
+  zhihu: Phys_PH-Lin
   email: peihan.lin@stu.pku.edu.cn
   facebook:
   github: Sophus-PHLin
   rss: # just type anything here for a working RSS icon
-  twitter: https://twitter.com/LinSophus62764
+  twitter: LinSophus62764
   youtube:
 
 footer-text: Copyright (c) 2024 Sophus
