@@ -17,5 +17,5 @@ author: Sophus
 ...
 ```
 
-the title shown on the first line is t1, and the title on second line is **t3**.
+the title shown on the first line is **t2**, and the title on second line is **t3**.
 

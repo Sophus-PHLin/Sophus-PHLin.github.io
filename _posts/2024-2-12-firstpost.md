@@ -231,3 +231,12 @@ $$
 $$
  
 访问 [MathJax](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) 参考更多使用方法。
+
+
+# 6.PDF嵌入
+
+这是一个PDF：[1309.2544](https://Sophus-PHLin.github.io/files/1309.2544.pdf)
+
+这个也可以：
+
+<div class="pdfobject-container" data-target="[/pdf/myfirstblog/mfb001.pdf](https://Sophus-PHLin.github.io/files/1309.2544.pdf)" data-height="800px"></div>
