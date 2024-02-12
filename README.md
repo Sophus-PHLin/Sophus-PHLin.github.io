@@ -4,4 +4,4 @@ My Personal Blog via GitHub
 
 visit [Sophus-PHLin.github.io](https://Sophus-PHLin.github.io)
 
-[Contact Me](mailto:909740035@qq.com)
+This website is based on `pianfan` 's webpage [pianfan.github.io](https://pianfan.github.io)
