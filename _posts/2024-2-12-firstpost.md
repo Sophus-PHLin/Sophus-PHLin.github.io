@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My first Post"
+title: "My first post"
 date:   2024-2-12
 tags: [blog]
 comments: true
@@ -223,20 +223,11 @@ $$\sum^{j-1}_{k=0}{\widehat{\gamma}_{kj} z_k}$$
 更复杂的公式:
 $$
 \begin{eqnarray}
-\vec\nabla \times (\vec\nabla f) & = & 0  \cdots\cdots梯度场必是无旋场\\
-\vec\nabla \cdot(\vec\nabla \times \vec F) & = & 0\cdots\cdots旋度场必是无散场\\
+\vec\nabla \times (\vec\nabla f) & = & 0\\
+\vec\nabla \cdot(\vec\nabla \times \vec F) & = & 0\\
 \vec\nabla \cdot (\vec\nabla f) & = & {\vec\nabla}^2f\\
 \vec\nabla \times(\vec\nabla \times \vec F) & = & \vec\nabla(\vec\nabla \cdot \vec F) - {\vec\nabla}^2 \vec F\\
 \end{eqnarray}
 $$
  
 访问 [MathJax](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference) 参考更多使用方法。
-
-
-# 6.PDF嵌入
-
-这是一个PDF：[1309.2544](https://Sophus-PHLin.github.io/files/1309.2544.pdf)
-
-这个也可以：
-
-<div class="pdfobject-container" data-target="[/pdf/myfirstblog/mfb001.pdf](https://Sophus-PHLin.github.io/files/1309.2544.pdf)" data-height="800px"></div>

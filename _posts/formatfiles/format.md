@@ -17,5 +17,7 @@ author: Sophus
 ...
 ```
 
-the title shown on the first line is **t2**, and the title on second line is **t3**.
+- the link is **...github.io/t1**.
+- the title shown on the first line is **t2**
+- the title on second line is **t3**.
 
