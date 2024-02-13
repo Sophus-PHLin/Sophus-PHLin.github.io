@@ -7,6 +7,8 @@ comments: true
 author: Sophus
 ---
 
+> This article will be kept updated
+
 ## Links
 
 Here are some useful links on physics scientific research:
@@ -42,6 +44,7 @@ Here are some useful links on physics scientific research:
 - Fetter & Walecka, Quantum theory of many bodies
 - Feynman, Path integral and QM
 - Economou, Green functions in QM
+- Dresselhaus, Group theory and application to CMP
 - Landau, vol9
 - Nagaosa, QFT in CMP
 - Nakahara, geometry, topology and physics
@@ -51,3 +54,6 @@ Here are some useful links on physics scientific research:
 - 李正中 固体理论
 - 阎守胜 固体物理基础
 - 杨展如 量子统计物理学
+- 文小刚，量子多体理论
+
+some books on CMP theory can be found [here](https://chaoli.club/index.php/708/0) (in Chinese)
