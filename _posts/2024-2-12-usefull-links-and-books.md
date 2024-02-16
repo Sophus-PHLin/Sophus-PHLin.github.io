@@ -97,5 +97,6 @@ author: Sophus
 拓扑绝缘体：
 
 - Bernevig, Topological Insulators
+- Shun-Qing Shen, Topological Insulators
 
 完整的书籍推荐见[这里](https://chaoli.club/index.php/708/0)
