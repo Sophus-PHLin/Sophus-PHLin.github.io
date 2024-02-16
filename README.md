@@ -8,4 +8,4 @@ This website is based on `pianfan` 's website [pianfan.github.io](https://pianfa
 
 uploading files: <https://easylink.cc/>
 
-pics can be saved into the `images` directory.
+pics: upload using <https://picgo.github.io/PicGo-Doc/zh/)https://picgo.github.io/PicGo-Doc/zh/> to save them to directory.
