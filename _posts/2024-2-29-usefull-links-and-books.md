@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "书籍和链接"
-date:   2024-2-15
+date:   2024-2-29
 tags: [academic]
 comments: true
 author: Sophus
