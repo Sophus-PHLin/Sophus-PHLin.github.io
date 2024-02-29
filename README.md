@@ -6,6 +6,6 @@ visit [Sophus-PHLin.github.io](https://Sophus-PHLin.github.io)
 
 This website is based on `pianfan` 's website [pianfan.github.io](https://pianfan.github.io). Thank him for his detailed guidance.
 
-uploading files: <https://easylink.cc/>
+Uploading files: <https://easylink.cc/> to create link. Use them in your post.
 
-pics can be saved into the `images` directory.
+Pictures: use <https://picgo.github.io/PicGo-Doc/zh> to save them to directory.

@@ -9,7 +9,7 @@ navigation:
     url: /
   - name: About
     url: /about
-  - name: Classfication
+  - name: Tags
     url: /tags
 
 paginate: 8
