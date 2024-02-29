@@ -7,7 +7,7 @@ comments: true
 author: Sophus
 ---
 
-> 本文章将持续更新
+> 本文章将持续更新，没有写批注的表示没看过
 
 ## 链接
 
@@ -31,72 +31,62 @@ author: Sophus
 - [group tables](https://www.webqc.org/symmetry.php)
 - [DLMF NIST](https://dlmf.nist.gov/)
 - [bilbao crystal server](https://www.cryst.ehu.es/)
+- [Topological Matter course](https://topocondmat.org/index.html)
 
-## 书籍
+### 书籍
 
-### 光学
+#### 光学
 
-- Haken, Light(vol 2)
-- Scully, Quantum Optics
-- Renk, Basic of laser physics
-- Cohen, Atom-photon interactions
-- Fox, Optical properties of solids
+经典光学部分：
+
 - Born, Principles of Optics
-- 王若鹏，光学理论
+- 赵凯华、钟锡华，光学
+  
+量子光学：
+- 张智明，量子光学； 是一本很适合入门的书，但很多地方很浅，思维较为跳跃。
+- 郭光灿，量子光学； 比较详细的教材，但是叙述不是很清晰
+- Scully, Quantum Optics; 
+- Cohen, Atom-photon interactions
 
-## 凝聚态物理
+非线性光学
+- Geoffrey New, Introduction to Nonlinear Optics 
+- Boyd, Non-linear optics. 叙述详细的教材
 
-### 固体物理
+激光理论：
+- Scully, Quantum Optics; 
+- Haken, Light(vol 2)
+- Renk, Basic of laser physics
 
-固体物理的研究始于20世纪初，早期多为一些宏观实验测量与唯象描述，之后很快引入**量子力学**，成为较为完整的理论。这也是本科生的必修课程。
+### 凝聚态物理
 
-这一部分教材包括：
+#### 固体物理
 
-- Ashcroft & Mermin, Solid State Physics 这一方面经典教材
-- 阎守胜，固体物理基础 Ashcroft的精简版
-- 胡安，章维益 固体物理学 最适合入门的一本书，内容丰富详细，处理简明，物理意义清晰
+- Ashcroft & Mermin, Solid State Physics； 这一方面经典教材
+- 阎守胜，固体物理基础； Ashcroft的精简版
+- 胡安，章维益 固体物理学； 最适合入门的一本书，内容丰富详细，处理简明，物理意义清晰
 
-### 固体理论
+#### 固体理论
 
-相比固体物理，引入了一些基础的量子场论方法，如二次量子化、格林函数。这乘坐固体量子理论/固体理论。
-
-- 李正中，固体理论
+- 李正中，固体理论； 内容丰富，处理较为经典化
 - Phillips, Advanced Solid Physics
 
 ### 量子多体理论/统计场论
 
-完整地引入了统计力学和量子场论，格林函数成为研究重点。这一部分教材极为丰富。
-
-- Abrikosov, QFT in Statistical Physics
-- Fetter & Walecka, Quantum theory of many bodies
-- Mahan, Many-Particle Physics
+- Mahan, Many-Particle Physics； 经典的量子多体教材，内容丰富但是过于啰嗦
+- Altland & Simons, Condensed matter field theory； 从路径积分出发，个人感觉不太实用
 - Nagaosa, QFT in CMP
 - 文小刚，量子多体理论
 - Srednicki, QFT
+- Abrikosov, QFT in Statistical Physics
 
-### 凝聚态场论
+#### 群论
 
-二次量子化方法失效，入了更多的量子场论方法（比如：共形场论、拓扑场论等）与现代数学物理方法（比如：拓扑学、范畴论、K 理论等）
+- 李新征，群论及其在凝聚态物理中应用； 非常详细的一本书，对读者友好，覆盖了大部分群论内容
+- Dresselhaus, Group theory and application to CMP； 百科全书
 
-- Altland & Simons, Condensed matter field theory
+#### 拓扑绝缘体：
 
-### 专题研究
-
-基础群论：
-- 李新征，群论及其在凝聚态物理中应用（见大一课程）
-- Dresselhaus, Group theory and application to CMP
-
-数学物理：
-- Nakahara, geometry, topology and physics
-
-路径积分和格林函数：
-
-- Feynman, Path integral and QM
-- Economou, Green functions in QM
-
-拓扑绝缘体：
-
-- Bernevig, Topological Insulators
-- Shun-Qing Shen, Topological Insulators
-
-完整的书籍推荐见[这里](https://chaoli.club/index.php/708/0)
+- Shun-Qing Shen, Topological Insulators；模型化，某些地方讲明白了物理意义，但是不够丰富 
+- Bernevig, Topological Insulators； 写得好但是看不懂
+- Asboth, TI
+- [Topological Matter course](https://topocondmat.org/index.html)
