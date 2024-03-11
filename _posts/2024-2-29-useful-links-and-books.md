@@ -11,22 +11,14 @@ author: Sophus
 
 # 链接
 
-- [chatgpt](https://chat.openai.com/)
-- [mathcha](https://www.mathcha.io/editor)
-- [arxiv](https://arxiv.org/)
 - [simpletex](https://simpletex.cn/)
-- [google scholar](https://scholar.google.com.hk/)
-- [ORCID](https://orcid.org/)
 - [stable scihub](https://www.sci-hub.wf/)
 - [anna archive](https://annas-archive.org/)
 - [zlibrary](https://zh.z-library.se/)
 - [libgen.gs](https://libgen.gs/)
-- [comsol models](https://cn.comsol.com/models)
 - [materials iphys cas](http://materiae.iphy.ac.cn/)
-- [group tables](https://www.webqc.org/symmetry.php)
-- [DLMF NIST](https://dlmf.nist.gov/)
 - [bilbao crystal server](https://www.cryst.ehu.es/)
-- [Topological Matter course](https://topocondmat.org/index.html)
+- [group tables](https://www.webqc.org/symmetry.php)
 
 # 书籍
 
@@ -62,7 +54,6 @@ author: Sophus
 - Ashcroft & Mermin, Solid State Physics
 - 阎守胜，固体物理基础； Ashcroft的精简版
 
-
 ### 固体理论
 
 - 李正中，固体理论； 内容丰富，主要是经典（古老）理论
@@ -71,12 +62,8 @@ author: Sophus
 ### 量子多体理论/统计场论
 
 - Mahan, Many-Particle Physics； 经典的量子多体教材，内容丰富
-- Altland & Simons, Condensed matter field theory； 从路径积分出发，*个人感觉不太实用*
 - Nagaosa, QFT in CMP
-- 文小刚，量子多体理论
-- Srednicki, QFT
 - Abrikosov, QFT in Statistical Physics
-- Coleman, Introduction to many-body physics
 
 ### 群论
 
@@ -90,7 +77,8 @@ author: Sophus
 - Asboth, TI
 - [Topological Matter course](https://topocondmat.org/index.html)
 
-### 其他
-
-- Feynman, Path integral & QM
-- Nakahara
+### 强关联
+- 李正中，固体理论
+- Mahan， Many-Particle Physics
+- Coleman, Introduction to many-body physics
+- Nagaosa*2

@@ -11,16 +11,16 @@ Hello, I'm Peihan Lin, a Grade 1 student at [Peking University](https://www.pku.
 I'm currently interested in optics and condensed matter physics, especially these topics:
 
 - Non-hermitian optics and ~~topological photonics~~.
-- quantum optics, cavity QED and quantum dots.
+- quantum optics: cavity QED and optomechanics.
 - laser physics.
-- ~~topological condensed matter physics~~.
+- ~~topological condensed matter physics.~~
 - strong-correlated condensed matter physics.
 - link between CMT and optics.
 
 My other interests include :
-- mathematics: group theory and its applications in CMT.
 - scientific programming languages.
-- linguistics: the relationship between languages, origin of words.
+- physical simulations
+- linguistics: the relationship between languages and origin of words.
 - music.
 
 You can contact me at [peihan.lin@stu.pku.edu.cn](mailto:peihan.lin@stu.pku.edu.cn). Other contact methods are avaliable at the sidebar.
