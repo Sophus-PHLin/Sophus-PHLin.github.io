@@ -6,9 +6,13 @@ permalink: /about/
 
 ## About Me
 
-Hello, I'm PHLin, a Grade 1 student at Peking University, School of Physics. 
+Hello, I'm Peihan Lin, a Grade 1 student at Peking University, School of Physics.
 
+<<<<<<< HEAD
 I'm currently interested in optics, especially these topics:
+=======
+My name is from the mathematician Sophus Lie. My avatar is Kaname Raana from *Bang dream! It's Mygo!!!!!*
+>>>>>>> 2d2b9f62fadb1b701551e153cb2935d5e7d58009
 
 1. photonic crystals 
 How we can design and modulate photonic crystals with large quality factors?
