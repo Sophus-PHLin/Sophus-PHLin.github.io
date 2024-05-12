@@ -8,7 +8,7 @@ permalink: /about/
 
 I'm Sophus, a Grade 1 student at Peking University, School of Physics.
 
-I'm currently interested in optics, especially these topics:
+I'm currently interested in photonics, especially these topics:
 
 1.photonic crystals 
 
