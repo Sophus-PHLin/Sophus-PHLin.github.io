@@ -8,20 +8,23 @@ permalink: /about/
 
 Hello, I'm PHLin, a Grade 1 student at Peking University, School of Physics. 
 
-<!-- My webname `Sophus` comes from the mathematician Marius Sophus Lie. My avatar is Kaname Raana (要楽奈) from *Bang dream! It's Mygo!!!!!*. -->
+I'm currently interested in optics, especially these topics:
 
-I'm currently interested in optics and condensed matter physics, especially these topics:
-
-- laser physics: photonic crystals, resonate cavities
-- nano-technology
-- quantum optics: cavity QED and optomechanics.
-- strong-correlated condensed matter physics.
+1. photonic crystals 
+How we can design and modulate photonic crystals with large quality factors?
+(1) topological photonic cavities
+(2) twisted moire cavities
+(3) bound states in continuum (BIC)
+(4) non-hermitian crystals
+2. laser physics
+How can we generate laser with special properties by photonic cavities?
+3. condensed matter physics
+How can we demostrate CMP in photonic devices? What are special about them?
+4. other "classical" (not envolving quantum description) optical questions.
 
 My other interests include :
 - scientific programming languages (Mathematica, Numpy, Scipy...).
 - physical simulations (Comsol, FDTD...).
-- electronics
+- electronics.
 - linguistics: the relationship between languages and origin of words.
 - music (JPOP).
-
-You can contact me at [peihan.lin@stu.pku.edu.cn](mailto:peihan.lin@stu.pku.edu.cn). Other contact methods are avaliable at the sidebar.
