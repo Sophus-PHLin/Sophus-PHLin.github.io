@@ -1,5 +1,5 @@
 name: "Sophus's Homepage"
-description: "Peihan Lin's website"
+description: "Wir werden wissen"
 
 avatar: https://Sophus-PHLin.github.io/images/head_img.jpg
 favicon: https://Sophus-PHLin.github.io/images/favicon.png
@@ -18,7 +18,7 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: peihan.lin@stu.pku.edu.cn
+  email: 2300011401@stu.pku.edu.cn
   facebook:
   github: Sophus-PHLin
   rss: rss # just type anything here for a working RSS icon
