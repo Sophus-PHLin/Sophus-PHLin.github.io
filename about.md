@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-## About Me
-
 I'm Sophus, a Grade 1 student at Peking University, School of Physics.
 
 I'm currently interested in photonics, especially these topics:
@@ -37,4 +35,3 @@ How can we demonstrate the physics of condensed matter (topological insulator, s
 My other interests include :
 - electronics.
 - linguistics: the relationship between languages and the origin of words.
-- music (JPOP and ACG music).
