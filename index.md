@@ -7,12 +7,24 @@ title: Home
 
 FURTHER DOWN THE NEST.
 
-## Writings
+## 学术 / Academic
 
-{% if site.posts.size > 0 %}
-{% for post in site.posts %}
+{% for post in site.categories.academic %}
 - {{ post.date | date: "%Y-%m-%d" }} — [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
-{% else %}
-Notes will appear here.
-{% endif %}
+
+---
+
+## 音乐 / Music
+
+{% for post in site.categories.music %}
+- {{ post.date | date: "%Y-%m-%d" }} — [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
+
+---
+
+## 随笔 / Notes
+
+{% for post in site.categories.notes %}
+- {{ post.date | date: "%Y-%m-%d" }} — [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Writing
+title: Archive
 permalink: /archive.html
 ---
 
-# Writing
+# Archive
 
 {% if site.posts.size > 0 %}
 {% for post in site.posts %}
@@ -13,4 +13,3 @@ permalink: /archive.html
 {% else %}
 No posts yet.
 {% endif %}
-
