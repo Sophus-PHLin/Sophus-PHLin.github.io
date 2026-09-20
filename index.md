@@ -3,9 +3,10 @@ layout: default
 title: Home
 ---
 
-# Sophus
-
-FURTHER DOWN THE NEST.
+<div class="home-intro">
+  <h1>Sophus</h1>
+  <p>FURTHER DOWN THE NEST.</p>
+</div>
 
 ## 学术 / Academic
 
