@@ -1,0 +1,11 @@
+title: Sophus
+description: A personal homepage and notebook.
+url: "https://sophus-phlin.github.io"
+baseurl: ""
+
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+
+exclude:
+  - archival
+  - standards.md
