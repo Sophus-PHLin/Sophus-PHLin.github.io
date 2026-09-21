@@ -18,12 +18,4 @@ $$
 
 ## Paper
 
-<object
-  data="/files/Stable%20Topology%20in%20Exactly%20Flat%20Bands.pdf"
-  type="application/pdf"
-  width="100%"
-  height="700">
-  <p>Your browser cannot preview this PDF.</p>
-</object>
-
 [Stable Topology in Exactly Flat Bands (PDF)](/files/Stable%20Topology%20in%20Exactly%20Flat%20Bands.pdf)

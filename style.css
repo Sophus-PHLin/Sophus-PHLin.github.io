@@ -42,6 +42,11 @@ img {
   height: auto;
 }
 
+.centered-image {
+  display: block;
+  margin: 1.5rem auto;
+}
+
 pre {
   overflow-x: auto;
 }

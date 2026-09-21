@@ -8,7 +8,11 @@ This is a test post for writing about music.
 
 ## Grazhdanskaya Oborona — Tallinn, 1990
 
-![Grazhdanskaya Oborona, Tallinn, 1990](/images/GrOb-Tallinn1990.jpg)
+<img
+class="centered-image"
+src="/images/GrOb-Tallinn1990.jpg"
+alt="Grazhdanskaya Oborona, Tallinn, 1990"
+width="400">
 
 ## King Crimson — Starless
 
@@ -17,4 +21,4 @@ This is a test post for writing about music.
   Your browser does not support the audio element.
 </audio>
 
-[Listen to or download Starless (MP3)](/files/KingCrimson-Starless.mp3)
+<a href="/files/KingCrimson-Starless.mp3" download>Download Starless (MP3)</a>
